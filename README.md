@@ -112,7 +112,7 @@ Cuando haya funcionado, podremos verificar el funcionamiento de los led al aumen
 ![](https://github.com/InboardDelta/NIVEL_AGUA/blob/main/led%201.png?raw=true)
 ![](https://github.com/InboardDelta/NIVEL_AGUA/blob/main/led%202.png?raw=true)
 ![](https://github.com/InboardDelta/NIVEL_AGUA/blob/main/led%203.png?raw=true)
-![]()
+![](https://github.com/InboardDelta/NIVEL_AGUA/blob/main/4.png?raw=true)
 
 # Créditos
 
